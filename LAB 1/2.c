@@ -15,7 +15,6 @@ int main()
 {
     int iNum1, iNum2;
     printf("Nhap lan luot 2 so nguyen: \n");
-    while(getchar() != '\n');
     scanf("%d", &iNum1);
     while(getchar() != '\n');
     scanf("%d", &iNum2);
